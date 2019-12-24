@@ -1,0 +1,22 @@
+{
+  "name": "xlsxtojson",
+  "version": "1.0.0",
+  "description": "convierte tablas de excel a archivos JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackelinPerez/xlsxToJson.git"
+  },
+  "author": "JackelinPerez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackelinPerez/xlsxToJson/issues"
+  },
+  "homepage": "https://github.com/JackelinPerez/xlsxToJson#readme",
+  "dependencies": {
+    "xlsx": "^0.15.4"
+  }
+}
