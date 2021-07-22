@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/JackelinPerez/xlsxToJson#readme",
   "dependencies": {
-    "xlsx": "^0.15.4"
+    "xlsx": "^0.17.0"
   }
 }
